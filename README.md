@@ -1,4 +1,4 @@
-# Polyp Segmentation Model
+# Duplex Contextual Relations for Polyp Segmentation
 
 ## Introduction
 
