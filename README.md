@@ -7,7 +7,6 @@ The repository contains the PyTorch implementation of **"Duplex Contextual Relat
 ## Overview
 
 ####  1. Framework
-<<<<<<< HEAD
 <p align="center">
     <img src="imgs/framework.png"/> <br />
     <em> 
@@ -40,13 +39,8 @@ The repository contains the PyTorch implementation of **"Duplex Contextual Relat
     Figure 5: Quantitative results on PICCOLO dataset.
     </em>
 </p>
-=======
 
-####  2. Quantitative Results
 
-####  3. Qualitative Results
-
->>>>>>> 0bf99a73118a0d4e1878e51aa30b1bca4e79016c
 ## Usage
 
 #### 1. Prerequisite environment
