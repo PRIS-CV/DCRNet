@@ -13,6 +13,7 @@ The repository contains the PyTorch implementation of **"Duplex Contextual Relat
     Figure 1: Overview of our proposed DCRNet.
     </em>
 </p>
+
 ####  2. Quantitative Results
 <p align="center">
     <img src="imgs/visualization.png"/> <br />
@@ -20,6 +21,7 @@ The repository contains the PyTorch implementation of **"Duplex Contextual Relat
     Figure 2: Qualitative results.
     </em>
 </p>
+
 ####  3. Qualitative Results
 <p align="center">
     <img src="imgs/EndoScene.png"/> <br />
